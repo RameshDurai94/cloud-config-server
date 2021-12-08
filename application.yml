@@ -15,4 +15,4 @@ microservices:
   citizen-service:
     endpoints:
       endpoint:
-        uri: http://VACCINATION-CENTER-SERVICE/add
+        uri: http://CITIZEN-SERVICE/add
